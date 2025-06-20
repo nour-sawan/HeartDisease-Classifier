@@ -4,7 +4,7 @@ This is a simple heart disease classification project using Python and machine l
 
 ## Project Description
 
-The project loads a heart disease dataset, preprocesses the data, splits it into training and testing sets, trains a Random Forest classifier, and evaluates the model’s performance.  
+he project loads a heart disease dataset, preprocesses the data, splits it into training and testing sets, trains a model using the Random Forest Classifier algorithm, and evaluates the model’s performance.
 It is designed as a beginner-friendly example for understanding supervised machine learning.
 
 ## How to Run
